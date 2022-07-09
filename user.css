@@ -1,0 +1,22 @@
+
+h1{
+    padding-left: 600px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.users{
+    padding-left: 250px;
+    font-size: xx-large;
+    padding-top: 100px;
+}
+
+form{
+    padding-left: 650px;
+    padding-top: 100px;
+    
+}
+button{
+    font-size: xx-large;
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
